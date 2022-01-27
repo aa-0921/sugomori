@@ -81,7 +81,7 @@
     "style-loader": "^1.2.1",
     "stylelint-config-recommended-scss": "^4.2.0",
     "stylelint-scss": "^3.17.2",
-    "three": "^0.118.3",
+    "three": "^0.137.0",
     "turbolinks": "^5.2.0",
     "url-loader": "^4.1.0",
     "vanta": "^0.5.16",
